@@ -1,0 +1,1 @@
+double min = double.PositiveInfinity;
